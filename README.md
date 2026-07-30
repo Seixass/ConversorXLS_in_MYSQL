@@ -1,4 +1,4 @@
-# Sistema RDB — Conversor XLS/XLSX → MySQL
+# Sistema Conversor XLS/XLSX → MySQL
 
 ## O que é
 
